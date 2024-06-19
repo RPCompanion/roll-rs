@@ -1,3 +1,0 @@
-[submodule "pkgbuild"]
-	path = pkgbuild
-	url = git@github.com:finitum/roll-rs-pkgbuild.git
